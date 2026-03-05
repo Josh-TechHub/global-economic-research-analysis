@@ -1,4 +1,6 @@
-  Project Overview
+ # Global Economic & Education Analysis
+
+  ## Project Overview
 
 This project presents a statistical analysis of the relationship between literacy rates, education levels, and economic performance across countries.
 
@@ -7,16 +9,16 @@ The goal is to explore how educational development correlates with economic stre
 Understanding this relationship is crucial because education is often considered a foundational driver of economic growth, workforce productivity, and national development.
 
 
- Tools & Technologies:
+ **Tools & Technologies:**
 
-Python (Major tool):
+_Python (Major tool):_
 
 Pandas – Data cleaning and transformation.
 
 Matplotlib – Data visualization.
 
 
- Key Insights:
+## Key Insights
 
 A large proportion of countries show relatively high literacy rates globally.
 
@@ -33,7 +35,7 @@ Higher literacy rates generally correlate with lower unemployment rates.
 That said, some countries with strong literacy levels still experience high unemployment, possibly due to labor market saturation, economic instability, or mismatch between education and industry demand.
 
 
- Why This Project Matters?
+ ### Why This Project Matters?
 
 Education is widely considered a long-term investment in economic growth. By analyzing global patterns, this project highlights:
 
@@ -46,7 +48,7 @@ The need for targeted interventions in underperforming regions
 This analysis can support policymakers, researchers, and development organizations in making informed, data-driven decisions.
 
 
-My Recommendations:
+## Recommendations
 
 Targeted Education Investment: Regions with low literacy rates should prioritize foundational education access.
 
@@ -57,7 +59,7 @@ Regional Development Focus: Intervention strategies should be continent-specific
 Data-Driven Policy Design: Continuous monitoring of education-economic indicators is essential for sustainable development.
 
 
-Future Improvements:
+### Future Improvements:
 
 Incorporate time-series analysis to observe long-term trends.
 
